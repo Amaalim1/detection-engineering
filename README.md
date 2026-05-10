@@ -10,7 +10,7 @@
 
 ## 📖 Overview
 
-Detection engineering is the discipline of translating attacker behavior into reliable, low-noise alerts that drive meaningful SOC investigations. Unlike reactive security measures, it is a continuous, hypothesis-driven engineering practice — bridging threat intelligence, data engineering, and security operations.
+Detection engineering is the discipline of translating attacker behavior into reliable, low-noise alerts that drive meaningful SOC investigations. Unlike reactive security measures, it is a continuous, hypothesis-driven engineering practice, bridging threat intelligence, data engineering, and security operations.
 
 This repository documents the full detection lifecycle and provides practical guidance on tooling, query languages, and common pitfalls.
 
