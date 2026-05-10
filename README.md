@@ -157,6 +157,3 @@ Each threat scenario should generate one or more use cases. A single scenario li
 
 ---
 
-## 📄 License
-
-This content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — feel free to share and adapt with attribution.
