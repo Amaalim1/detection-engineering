@@ -61,6 +61,6 @@ Track these metrics per detection to identify what needs tuning:
 
 ## Back to Start
 
-Tuning insights often generate new hypotheses — a pattern of false positives may reveal a gap in your detection logic that points to a more precise, higher-fidelity approach.
+Tuning insights often generate new hypotheses a pattern of false positives may reveal a gap in your detection logic that points to a more precise, higher-fidelity approach.
 
-→ [01-creation.md](./01-creation.md) — Start a new detection cycle
+→ [01-creation.md](./01-creation.md)  Start a new detection cycle
